@@ -1,0 +1,5 @@
+pillow
+mss
+keyboard
+google-genai
+python-dotenv

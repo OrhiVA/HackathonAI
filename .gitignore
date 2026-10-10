@@ -1,0 +1,7 @@
+# secrets - never commit your API key
+.env
+
+# generated at runtime
+Screenshots/
+screenshot_library.db
+__pycache__/
